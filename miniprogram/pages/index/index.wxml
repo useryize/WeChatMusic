@@ -1,0 +1,2 @@
+<text>{{info}}</text>
+<button type="primary" bindtap="banner">banner</button>
