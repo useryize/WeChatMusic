@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    info: '123'
+    info: '1'
   },
   banner() {
     wx.vrequest({
